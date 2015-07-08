@@ -1,3 +1,3 @@
 # Hello-World
 In progress..
-I my name is andre penn, im from sacramento Ca, and I like computers. 
+My name is andre penn, 27, im from sacramento Ca, and I like computers. 
